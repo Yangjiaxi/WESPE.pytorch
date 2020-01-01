@@ -1,6 +1,8 @@
 # WESPE
 
-> Pytorch implementation of "WESPE: Weakly Supervised Photo Enhancer for Digital Cameras"
+This repo provides a reference implementation for this paper.
+
+Pytorch implementation of "WESPE: Weakly Supervised Photo Enhancer for Digital Cameras"
  
 
 ###  notice:
